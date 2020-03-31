@@ -4,70 +4,60 @@ body{
 @media (max-width: 4000px){
     .home-h1{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 50px;
     }
 }
 @media (max-width: 600px){
     .home-h1{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 40px;
     }
 }
 @media (max-width: 500px){
     .home-h1{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 30px;
     }
 }
 @media (max-width: 400px){
     .home-h1{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 25px;
     }
 }
 @media (max-width: 100px){
     .home-h1{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 20px;
     }
 }
 @media (max-width: 4000px){
     .home-h3{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 35;
     }
 }
 @media (max-width: 600px){
     .home-h3{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 25px;
     }
 }
 @media (max-width: 500px){
     .home-h3{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 20px;
     }
 }
 @media (max-width: 400px){
     .home-h3{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 15px;
     }
 }
 @media (max-width: 100px){
     .home-h3{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 10px;
     }
 }
@@ -77,9 +67,6 @@ body{
     padding: 25px;
 }
  img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   width: 100%;
   border-width: 5px;
   border-radius: 5px;
@@ -114,14 +101,12 @@ body{
 @media (min-width: 400px){
     h6{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 20px;
     }
 }
  @media (max-width: 399px){
     h6{
         font-family: 'Liu Jian Mao Cao', cursive;
-        text-align: center;
         font-size: 15px;
     }
 }
@@ -137,4 +122,12 @@ body{
 .gallery-col{
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+
+@media (max-width: 4000px){
+    h5{
+        font-family: 'Liu Jian Mao Cao', cursive;
+        font-size: 50px;
+    }
 }
