@@ -71,13 +71,13 @@ body{
   border-width: 5px;
   border-radius: 5px;
   border-style: solid;
-  border-color: gray;
+  border-color: black;
 }
 
  
  .list{
      border-style: solid;
-     border-color: gray;
+     border-color: black;
      text-align: center;
      border-width: 10px;
      border-radius: 5px;
